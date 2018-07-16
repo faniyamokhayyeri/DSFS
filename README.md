@@ -16,13 +16,16 @@ This page contains end-to-end demo code that generates the 3D facial shape and t
 </p>
 
 ## Data
-- **[ChokePoint](http://arma.sourceforge.net/chokepoint/)** .
+
+- **[ChokePoint](http://arma.sourceforge.net/chokepoint/)** 
+- **[ChokePoint](http://arma.sourceforge.net/chokepoint/)** 
+
 
 ## Prerequisite:
 
-Note: the code only works in Windows 64x
-
 - **[Download the Basel Face Model](http://faces.cs.unibas.ch/bfm/main.php?nav=1-2&id=downloads)** and move `01_MorphableModel.mat` into the folders.
+
+Note: the code only works in Windows 64x
 
 ## Citation:
 
