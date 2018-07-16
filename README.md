@@ -25,8 +25,6 @@ This page contains end-to-end demo code that generates the 3D facial shape and t
 
 - **[Download the Basel Face Model](http://faces.cs.unibas.ch/bfm/main.php?nav=1-2&id=downloads)** and move `01_MorphableModel.mat` into the folders.
 
-Note: the code only works in Windows 64x
-
 ## Citation:
 
 If you find this work useful, please cite our paper with the following bibtex:
