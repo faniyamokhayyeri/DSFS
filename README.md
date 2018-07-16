@@ -2,6 +2,8 @@
 
 <p align="center">
     <img src="media/p1.png" width="200">
+	<img src="media/p2.png" width="200">
+	<img src="media/p3.png" width="200">
 </p>
 
 <p align="center">
