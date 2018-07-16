@@ -1,5 +1,8 @@
 # DSFS
 
+Official Matlab implementation of Domain-Specific Face Synthesis for Video Face Recognition from a Single Sample Per Person.
+
+
 This page contains end-to-end demo code that generates the 3D facial shape and texture from an unconstrained 2D face image based on the information obtained from generic set.  
 
 <p align="center">
