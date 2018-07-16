@@ -18,7 +18,7 @@ This page contains end-to-end demo code that generates the 3D facial shape and t
 ## Data
 
 - **[ChokePoint](http://arma.sourceforge.net/chokepoint/)** 
-- **[ChokePoint](http://arma.sourceforge.net/chokepoint/)** 
+- **[COX-S2V](http://vipl.ict.ac.cn/view_database.php?id=3)** 
 
 
 ## Prerequisite:
