@@ -1,5 +1,3 @@
-# DSFS
-
 Official Matlab implementation of **[Domain-Specific Face Synthesis for Video Face Recognition from a Single Sample Per Person](https://arxiv.org/pdf/1801.01974.pdf)**
 ===========
 
