@@ -1,5 +1,7 @@
 # DSFS
 
+This page contains end-to-end demo code that generates the 3D facial shape and texture from an unconstrained 2D face image based on the information obtained from generic set.  
+
 <p align="center">
     <img src="media/p1.png" height="200">
 	<img src="media/p2.png" height="200">
@@ -17,8 +19,7 @@
 
 Note: the code only works in Windows 64x
 
-Download the Basel Face Model and move 01_MorphableModel.mat into the folders.
-
+- **[Download the Basel Face Model](http://faces.cs.unibas.ch/bfm/main.php?nav=1-2&id=downloads)** and move `01_MorphableModel.mat` into the folders.
 
 ## Citation:
 
