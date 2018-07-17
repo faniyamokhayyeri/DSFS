@@ -21,11 +21,11 @@ This page contains end-to-end demo code that generates the 3D facial shape and t
 - **[COX-S2V](http://vipl.ict.ac.cn/view_database.php?id=3)** 
 
 
-## Prerequisite:
+## Prerequisite
 
 - **[Download the Basel Face Model](http://faces.cs.unibas.ch/bfm/main.php?nav=1-2&id=downloads)** and move `01_MorphableModel.mat` into the folders.
 
-## Citation:
+## Citation
 
 If you find this work useful, please cite our paper with the following bibtex:
 
