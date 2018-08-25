@@ -1,4 +1,4 @@
-Official Matlab implementation of **[Domain-Specific Face Synthesis for Video Face Recognition from a Single Sample Per Person](https://arxiv.org/pdf/1801.01974.pdf)**
+Official Matlab implementation of **[Domain-Specific Face Synthesis for Video Face Recognition from a Single Sample Per Person](https://ieeexplore.ieee.org/document/8443382/)**
 ===========
 
 This page contains end-to-end demo code that generates the 3D facial shape and texture from an unconstrained 2D face image based on the information obtained from generic set.  
