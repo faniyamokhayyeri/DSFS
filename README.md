@@ -32,6 +32,6 @@ If you find this work useful, please cite our paper with the following bibtex:
 @article{mokhayeri2018domain,
   title={Domain-Specific Face Synthesis for Video Face Recognition from a Single Sample Per Person},
   author={Mokhayeri, Fania and Granger, Eric and Bilodeau, Guillaume-Alexandre},
-  journal={arXiv preprint arXiv:1801.01974},
+  journal={IEEE Transactions on Information Forensics and Security},
   year={2018}
 }
