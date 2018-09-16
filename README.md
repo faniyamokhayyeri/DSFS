@@ -33,5 +33,9 @@ If you find this work useful, please cite our paper with the following bibtex:
   title={Domain-Specific Face Synthesis for Video Face Recognition from a Single Sample Per Person},
   author={Mokhayeri, Fania and Granger, Eric and Bilodeau, Guillaume-Alexandre},
   booktitle={IEEE Transactions on Information Forensics and Security},
-  year={2018}
+  volume={14},
+  number={3},
+  pages={757--772},
+  year={2018},
+  publisher={IEEE}
 }
