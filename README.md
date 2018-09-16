@@ -39,3 +39,7 @@ If you find this work useful, please cite our paper with the following bibtex:
   year={2018},
   publisher={IEEE}
 }
+
+Digital Object Identifier: 10.1109/TIFS.2018.2866295
+
+
